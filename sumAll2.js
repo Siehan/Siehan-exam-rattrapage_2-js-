@@ -1,12 +1,14 @@
-const chalk = require("chalk");
-
 /*
-sumAll.js
+sumAll.js (sumAll2.js)
 
 Ecrire une fonction sumAll qui prend comme paramètre un tableau de number
 et retourne la somme de tous les nombres de ce tableau.
 
 */
+
+/*******************************************************************************************/
+
+const chalk = require("chalk");
 
 /***************     UNE 5EME VERSION     **********/
 

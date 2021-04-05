@@ -1,0 +1,11 @@
+{
+  "name": "exam-rattrapage_2.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Siehan/Siehan-exam-rattrapage_2-js-.git",
+  "author": "Siehan <memain.ye.sylvie@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
